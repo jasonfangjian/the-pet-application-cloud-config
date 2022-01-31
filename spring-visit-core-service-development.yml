@@ -34,4 +34,7 @@ logstash:
   host: localhost
   port: 6000
 
+region:
+  state: NJ
+
 timezone: EST
