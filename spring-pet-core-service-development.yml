@@ -35,4 +35,4 @@ logstash:
   port: 6000
 
 region:
-  state: TX
+  state: NJ
