@@ -37,4 +37,4 @@ logstash:
 region:
   state: NJ
 
-timezone: PST
+timezone: CST
